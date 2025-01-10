@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 This is a change in test1 branch
 This is a change in test2 branch
 Hello
 New Feature
 Initial content
 Main branch work: Line 2
+Feature branch work: Line 1
